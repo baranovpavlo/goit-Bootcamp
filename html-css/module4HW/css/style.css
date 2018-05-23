@@ -38,6 +38,7 @@ a {
 .list {
     float: right;
     font-size: 14px;
+    padding-top: 8px;
     text-transform: uppercase;
 }
 
